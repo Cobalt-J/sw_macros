@@ -6,7 +6,7 @@ from time import sleep
 # Sequence: +, Y, Down x22, A, A, Wait 5s, Left 2s, Up 1s, A, A
 
 wa_5_day_up = "16"
-wa_19_night_down = "22"
+wa_19_night_up = "5"
 
 FAST_TRAVEL=f"""w
 0.2s
